@@ -59,27 +59,22 @@ Hey there! 👋 I'm a DevOps Engineer focused on automation, cloud cost optimiza
 ### ☁️ Cloud & Platforms
 ![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
 ![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoftazure)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ### ⚙️ DevOps Tools
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes)
 ![Terraform](https://img.shields.io/badge/Terraform-purple?style=for-the-badge&logo=terraform)
 
+### ⚙️ DevOps & CI/CD
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+
 ### 📊 Monitoring
 ![Prometheus](https://img.shields.io/badge/Prometheus-orange?style=for-the-badge&logo=prometheus)
 ![Grafana](https://img.shields.io/badge/Grafana-yellow?style=for-the-badge&logo=grafana)
+![Nagios](https://img.shields.io/badge/Nagios-000000?style=for-the-badge&logo=nagios&logoColor=white)
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayaraj172&show_icons=true&theme=radical">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayaraj172&theme=radical">
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/jayaraj172/jayaraj172/blob/output/github-contribution-grid-snake.svg)
